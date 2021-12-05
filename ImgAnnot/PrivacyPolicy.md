@@ -11,7 +11,7 @@ ImgAnnot is an Android app that can be used for various image annotation tasks f
 This app is developed by Peter Akande.
 
 
-We at Pilad Technologies take privacy, and as such, this app is not built to collect or transmit any form of data.
+We at Pilad Technologies respect the privacy of our users, and as such, this app is not built to collect or transmit any form of data.
 
 
 
